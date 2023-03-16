@@ -1,4 +1,4 @@
-# \[Group name\]
+# GIT
 
 **Group members:**
 - 1
