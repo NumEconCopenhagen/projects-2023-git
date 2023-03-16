@@ -1,9 +1,9 @@
 # \[Group name\]
 
 **Group members:**
-- A
-- B
-- C
+- 1
+- 2
+- 3
 
 This repository contains  
 1. Inaugural project. 
