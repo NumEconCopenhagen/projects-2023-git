@@ -14,3 +14,7 @@ Data project has the purpose of loading and structuring data. In this project we
 3. Model Project. 
 Model project has the purpose of applying numerical model analysis methods and structuring a code project. Our model projects considers the Solow Model, first the general Solow Model, and later on extensions to the model. First we look at the Solow Model with human capital, and later at the same model but this with a CES production function. 
 
+4. Examp Project. 
+
+5. A Feedback.txt file with a list of the groups we have given peer feedback to.
+
