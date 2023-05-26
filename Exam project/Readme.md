@@ -2,8 +2,8 @@
 
 **Exam project** 
 
-problem 1: Optimal tazation with government consumption 
+Problem 1: Optimal taxation with government consumption 
 
-problem 2: Labor adjustment costs 
+Problem 2: Labor adjustment costs 
 
 Problem 3: Global optimizer with refined multi-start
