@@ -2,7 +2,7 @@
 
 Our project is titled **Premier League Analysis** and is about trying to predict the outcome of matches in Premier League. First we calculate statistics about expected goals scored and conceded, by teams when playing at home and away, to base our predictions upon. Then we apply the poisson distribution to try and predict the outcome of given matches.
 
-The **results** of the project can be seen from running [PL_Dataproject2.ipynb](dataproject.ipynb).
+The **results** of the project can be seen from running [PL_Dataproject_Exam.ipynb](dataproject.ipynb).
 
 We apply the **following datasets**:
 
